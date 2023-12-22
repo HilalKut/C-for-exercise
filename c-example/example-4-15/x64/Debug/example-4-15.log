@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\pc\OneDrive\Masaüstü\C-for-exercise\c-example\example-4-15\Source.cpp(4,7): warning C4129: 'h': unrecognized character escape sequence
+C:\Users\pc\OneDrive\Masaüstü\C-for-exercise\c-example\example-4-15\Source.cpp(4,7): warning C4129: 's': unrecognized character escape sequence
+C:\Users\pc\OneDrive\Masaüstü\C-for-exercise\c-example\example-4-15\Source.cpp(4,7): warning C4129: 'i': unrecognized character escape sequence
+  example-4-15.vcxproj -> C:\Users\pc\OneDrive\Masaüstü\C-for-exercise\c-example\x64\Debug\example-4-15.exe
